@@ -28,6 +28,9 @@ npm run dev
 
 Open http://localhost:5173 — the Vite dev server proxies `/api` to the backend.
 
+<img width="781" height="754" alt="Screenshot 2026-06-17 at 4 31 00 AM" src="https://github.com/user-attachments/assets/b2378d0c-0eb4-422d-af5f-10dabc79e95e" />
+
+
 ### Run Tests & Eval Report
 
 ```bash
