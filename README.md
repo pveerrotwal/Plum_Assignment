@@ -4,12 +4,7 @@ Multi-agent AI pipeline that automates health insurance claim submission, docume
 
 ## Free Deployment (Render)
 
-You can deploy this repo for free on Render (free services sleep after inactivity and cold-start on next request). See Render docs: [`https://render.com/docs/free.md`](https://render.com/docs/free.md).
-
-1. Go to Render dashboard and choose **New → Blueprint**
-2. Select this GitHub repo: `https://github.com/pveerrotwal/Plum_Assignment`
-3. Render will detect `render.yaml` and create a **free** Web Service
-4. After deploy completes, your live link will be shown in the Render service page
+Project is live at current url: https://plum-claims-ty4x.onrender.com/
 
 ## Quick Start
 
